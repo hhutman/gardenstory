@@ -57,6 +57,21 @@ body {
     background-image: url(images/cat.png);
   }
 
+  .hover2 {
+    background-image: url(images/disscat.png);
+    height: 300px;
+    width: 300px;
+    margin-top: 15px;
+    margin-bottom: 250px;
+    margin-left: 40%;
+    background-size: contain;
+    background-repeat: no-repeat;
+        }
+.hover2:hover {
+    background-image: url(images/angrybear.png);
+  }
+
+
  
 
 
